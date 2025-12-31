@@ -1,0 +1,315 @@
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Trebuchet MS,75,&H00FFFFFF,&H0000FFFF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3.0,5.0,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.72,0:00:05.35,Default,,0,0,0,,Tal como um conto de fadas,\Numa prova de que chegou ao fim.
+Dialogue: 0,0:00:05.37,0:00:09.88,Default,,0,0,0,,De uma viagem demasiado longa\Nfoi arrancado um fragmento.
+Dialogue: 0,0:00:09.90,0:00:14.54,Default,,0,0,0,,Foi uma vez nesta terra\No mal que lançou uma sombra,
+Dialogue: 0,0:00:14.56,0:00:19.26,Default,,0,0,0,,ao herói que o derrotou,\Ne as memórias de uma curta jornada.
+Dialogue: 0,0:00:20.28,0:00:28.93,Default,,0,0,0,,{\pos(960,800)} Frieren a Executadora
+Dialogue: 0,0:00:29.62,0:00:34.34,Default,,0,0,0,,A história termina,\No herói descança,
+Dialogue: 0,0:00:34.37,0:00:38.86,Default,,0,0,0,,deixando dias\Ntranquilos, nesta terra.
+Dialogue: 0,0:00:38.89,0:00:43.33,Default,,0,0,0,,O tempo flui implacavelmente,\Nfazendo as pessoas esquecerem.
+Dialogue: 0,0:00:43.35,0:00:47.83,Default,,0,0,0,,Mesmo os milagres que\Nviveram ali, se corroeram.
+Dialogue: 0,0:00:47.86,0:00:52.25,Default,,0,0,0,,Mesmo assim as tuas,\Npalavras, desejos e coragem também
+Dialogue: 0,0:00:52.27,0:00:57.35,Default,,0,0,0,,ainda vivem dentro\Nde mim, certamente.
+Dialogue: 0,0:00:58.17,0:01:01.06,Default,,0,0,0,,Escolhemos apenas o mesmo caminho,\Nera só isso que devia acontecer.
+Dialogue: 0,0:01:01.06,0:01:03.63,Default,,0,0,0,,Ainda assim, antes que\Neu percebesse porquê.
+Dialogue: 0,0:01:03.65,0:01:10.28,Default,,0,0,0,,Quero saber mais sobre as lágrimas que correram\Npela tua face, mesmo que seja tarde demais agora.
+Dialogue: 0,0:01:10.35,0:01:12.78,Default,,0,0,0,,Se eu seguir a jornada\Nque percorremos juntos,
+Dialogue: 0,0:01:12.83,0:01:18.11,Default,,0,0,0,,mesmo que já não estejas lá,\Nde certeza irei encontrar-te.
+Dialogue: 0,0:01:18.14,0:01:20.47,Default,,0,0,0,,No fim, começa uma\Nnova história
+Dialogue: 0,0:01:20.49,0:01:22.49,Default,,0,0,0,,aprendendo sobre as\Npessoas nesta jornada
+Dialogue: 0,0:01:22.52,0:01:27.32,Default,,0,0,0,,a história dos nossos dias continuará para sempre,\Nsempre, sempre enquanto marchamos em frente.
+Dialogue: 0,0:01:30.88,0:01:34.00,Default,,0,0,0,,Por exemplo, a magia\Nde longo alcance é,
+Dialogue: 0,0:01:34.03,0:01:38.85,Default,,0,0,0,,composta pela combinação de 3\Nelementos essenciais para um feiticeiro.
+Dialogue: 0,0:01:39.44,0:01:43.27,Default,,0,0,0,,Uma delas é a quantidade de energia\Ne a força utilizada para a projetar
+Dialogue: 0,0:01:43.34,0:01:47.18,Default,,0,0,0,,e de a poder controlar,\Naté ai já deves de saber certo?
+Dialogue: 0,0:01:47.36,0:01:48.52,Default,,0,0,0,,Sim.
+Dialogue: 0,0:01:48.66,0:01:51.85,Default,,0,0,0,,Daquela vez a magia\Ndissipou-se não foi?
+Dialogue: 0,0:01:52.02,0:01:56.19,Default,,0,0,0,,Isso indica falta de poder\Nmágico e de força ao lançar.
+Dialogue: 0,0:01:56.37,0:01:59.25,Default,,0,0,0,,Não é algo que se resolva\Nde um dia para o outro.
+Dialogue: 0,0:01:59.35,0:02:01.10,Default,,0,0,0,,Independentemente\Ndo talento,
+Dialogue: 0,0:02:01.14,0:02:03.67,Default,,0,0,0,,É algo que tem de ser trabalhado\Nao longo de muitos anos.
+Dialogue: 0,0:02:08.14,0:02:09.14,Default,,0,0,0,,Mas...
+Dialogue: 0,0:02:09.56,0:02:13.04,Default,,0,0,0,,a tua capacidade de controlar a\Nmagia parece ser muito elevada.
+Dialogue: 0,0:02:13.27,0:02:15.45,Default,,0,0,0,,Muitos têm dificuldade\Nnessa parte.
+Dialogue: 0,0:02:15.70,0:02:18.38,Default,,0,0,0,,Por isso não te\Npreocupes muito.
+Dialogue: 0,0:02:18.51,0:02:20.91,Default,,0,0,0,,É algo que deve ser\Nencarado com paciência.
+Dialogue: 0,0:02:22.92,0:02:24.19,Default,,0,0,0,,Está bem.
+Dialogue: 0,0:03:34.18,0:03:36.98,Default,,0,0,0,,O treino da Fern\Nestá a correr bem?
+Dialogue: 0,0:03:37.40,0:03:41.25,Default,,0,0,0,,Uma pessoa comum leva 10\Nanos e ela conseguiu em 4.
+Dialogue: 0,0:03:41.28,0:03:44.63,Default,,0,0,0,,Ela está a esforçar-se demais.\NIsso não é bom.
+Dialogue: 0,0:03:44.74,0:03:48.28,Default,,0,0,0,,Ela tem estado na floresta\Nultimamente não é?
+Dialogue: 0,0:03:48.41,0:03:51.23,Default,,0,0,0,,Ela deve mesmo de\Ngostar muito de magia.
+Dialogue: 0,0:03:51.71,0:03:55.03,Default,,0,0,0,,Mesmo assim ainda falta muito\Npara se tornar completamente capaz.
+Dialogue: 0,0:03:55.47,0:03:58.67,Default,,0,0,0,,Devo conseguir decifrar\No grimório antes disso
+Dialogue: 0,0:03:59.34,0:04:01.34,Default,,0,0,0,,Estou a ver.
+Dialogue: 0,0:04:02.82,0:04:04.48,Default,,0,0,0,,Ouve Heiter...
+Dialogue: 0,0:04:04.76,0:04:08.08,Default,,0,0,0,,este grimório, talvez...
+Dialogue: 0,0:04:10.26,0:04:11.10,Default,,0,0,0,,Heiter?
+Dialogue: 0,0:04:18.68,0:04:21.50,Default,,0,0,0,,Não faças essa\Ncara por favor.
+Dialogue: 0,0:04:21.99,0:04:26.20,Default,,0,0,0,,O facto de o meu corpo ter\Naguentado até agora foi um milagre.
+Dialogue: 0,0:04:30.20,0:04:32.70,Default,,0,0,0,,Vou apressar-me a\Ndecifrar o grimório.
+Dialogue: 0,0:04:32.81,0:04:34.49,Default,,0,0,0,,Por favor.
+Dialogue: 0,0:04:39.76,0:04:42.18,Default,,0,0,0,,Fern, interrompe o\Ntreino por agora.
+Dialogue: 0,0:04:42.22,0:04:45.47,Default,,0,0,0,,Heiter desmaiou, devias\Nde tar com dele.
+Dialogue: 0,0:04:46.18,0:04:49.08,Default,,0,0,0,,Ainda não consegui\Nperfurar a primeira rocha.
+Dialogue: 0,0:04:49.66,0:04:52.37,Default,,0,0,0,,Tu hás de o conseguir\Neventualmente.
+Dialogue: 0,0:04:52.61,0:04:55.24,Default,,0,0,0,,Agora devias...\NEventualmente não chega!
+Dialogue: 0,0:04:56.96,0:04:58.96,Default,,0,0,0,,Até lá...
+Dialogue: 0,0:04:59.23,0:05:01.69,Default,,0,0,0,,o senhor Heiter vai morrer.
+Dialogue: 0,0:05:04.12,0:05:07.55,Default,,0,0,0,,Foi ele quem me\Nsalvou a vida.
+Dialogue: 0,0:05:18.17,0:05:21.78,Default,,0,0,0,,Acho que morrer agora,\Nseria um desperdício.
+Dialogue: 0,0:05:22.39,0:05:24.39,Default,,0,0,0,,Um desperdício?
+Dialogue: 0,0:05:25.01,0:05:27.86,Default,,0,0,0,,Já passou muito\Ntempo desde que...
+Dialogue: 0,0:05:28.12,0:05:31.44,Default,,0,0,0,,perdi um velho amigo.
+Dialogue: 0,0:05:32.07,0:05:35.12,Default,,0,0,0,,Ao contrário de mim,\Nele era completamente direto.
+Dialogue: 0,0:05:35.15,0:05:39.54,Default,,0,0,0,,O tipo de pessoa que nunca\Nabandonaria alguém em apuros.
+Dialogue: 0,0:05:40.69,0:05:44.08,Default,,0,0,0,,Se não fosse eu\Nmas ele a sobreviver.
+Dialogue: 0,0:05:44.14,0:05:46.64,Default,,0,0,0,,Poderia ter salvado\Nmuitas pessoas.
+Dialogue: 0,0:05:47.14,0:05:53.01,Default,,0,0,0,,Eu não sou como ele, por isso pensei\Nem passar o resto da minha vida quietinho.
+Dialogue: 0,0:05:53.34,0:05:56.93,Default,,0,0,0,,Um dia, de repente apercebi-me.
+Dialogue: 0,0:05:57.38,0:05:59.66,Default,,0,0,0,,Se eu morrer assim...
+Dialogue: 0,0:05:59.84,0:06:03.39,Default,,0,0,0,,a coragem, a vontade e a\Namizade que aprendi com ele…
+Dialogue: 0,0:06:03.72,0:06:05.72,Default,,0,0,0,,mesmo as\Nmemórias preciosas...
+Dialogue: 0,0:06:05.99,0:06:09.06,Default,,0,0,0,,temo que desapareçam\Ndeste mundo.
+Dialogue: 0,0:06:12.33,0:06:14.07,Default,,0,0,0,,Se dentro de ti...
+Dialogue: 0,0:06:14.28,0:06:16.85,Default,,0,0,0,,também existem memórias preciosas,
+Dialogue: 0,0:06:17.67,0:06:20.81,Default,,0,0,0,,acho que morrer\Nseria um desperdício.
+Dialogue: 0,0:06:22.60,0:06:24.60,Default,,0,0,0,,O senhor Heiter sempre...
+Dialogue: 0,0:06:24.63,0:06:28.00,Default,,0,0,0,,teve preocupado de morrer\Ne me deixar para trás.
+Dialogue: 0,0:06:28.52,0:06:31.36,Default,,0,0,0,,Ele fez o correto.
+Dialogue: 0,0:06:31.67,0:06:34.11,Default,,0,0,0,,Não quero que ele se\Narrependa de me salvar.
+Dialogue: 0,0:06:34.91,0:06:37.07,Default,,0,0,0,,Feiticeira ou \Nqualquer outra coisa.
+Dialogue: 0,0:06:37.39,0:06:39.91,Default,,0,0,0,,Aprender a viver sozinha...
+Dialogue: 0,0:06:40.03,0:06:42.03,Default,,0,0,0,,é a minha forma\Nde o retribuir,
+Dialogue: 0,0:06:42.50,0:06:47.94,Default,,0,0,0,,de ele me salvar, que está\Ntudo bem é o que lhe quero dizer.
+Dialogue: 0,0:06:51.05,0:06:54.07,Default,,0,0,0,,Lembras-te de tudo\No que te ensinei certo?
+Dialogue: 0,0:06:54.34,0:06:55.30,Default,,0,0,0,,Sim.
+Dialogue: 0,0:06:55.59,0:06:57.58,Default,,0,0,0,,Então faz como\Ntu queiras.
+Dialogue: 0,0:07:58.47,0:08:02.45,Default,,0,0,0,,Não está escrito nada sobre ressuscitar\Nos mortos ou magia da imortalidade.
+Dialogue: 0,0:08:02.55,0:08:03.97,Default,,0,0,0,,Como de esperado.
+Dialogue: 0,0:08:04.18,0:08:05.73,Default,,0,0,0,,Sabias disso?
+Dialogue: 0,0:08:06.21,0:08:09.33,Default,,0,0,0,,O medo da morte\N é imensurável.
+Dialogue: 0,0:08:09.53,0:08:13.90,Default,,0,0,0,,Se houvesse tal coisa,\NEwig o teria usado.
+Dialogue: 0,0:08:14.35,0:08:16.35,Default,,0,0,0,,Então porqué?
+Dialogue: 0,0:08:17.08,0:08:19.30,Default,,0,0,0,,Fern, como está ela?
+Dialogue: 0,0:08:19.71,0:08:22.23,Default,,0,0,0,,Ainda há algumas\Npartes imperfeitas, mas…
+Dialogue: 0,0:08:22.49,0:08:25.80,Default,,0,0,0,,está ao nível de qualquer\Nfeiticeiro experiente.
+Dialogue: 0,0:08:27.14,0:08:30.98,Default,,0,0,0,,Estou a ver, ela\Nconseguiu a tempo então.
+Dialogue: 0,0:08:31.28,0:08:35.34,Default,,0,0,0,,Agora ela já não\Nte empatará, Frieren.
+Dialogue: 0,0:08:37.05,0:08:40.45,Default,,0,0,0,,Achas que a podias\Nlevar na tua viagem?
+Dialogue: 0,0:08:40.83,0:08:44.18,Default,,0,0,0,,Desculpa Heiter, mas isso\Né algo que eu não posso fazer.
+Dialogue: 0,0:08:44.53,0:08:46.53,Default,,0,0,0,,Ela só ia empatar.
+Dialogue: 0,0:08:47.03,0:08:49.03,Default,,0,0,0,,Planeaste isto Heiter?
+Dialogue: 0,0:08:52.02,0:08:55.50,Default,,0,0,0,,O pagamento pela decifração\Nestá na gaveta da secretária.
+Dialogue: 0,0:08:56.13,0:08:58.84,Default,,0,0,0,,Por favor, saíam\Nesta noite.
+Dialogue: 0,0:08:59.29,0:09:01.09,Default,,0,0,0,,O que queres\Ndizer com isso?
+Dialogue: 0,0:09:01.66,0:09:05.39,Default,,0,0,0,,Como podes ver, não\Nme resta muito tempo.
+Dialogue: 0,0:09:06.47,0:09:12.92,Default,,0,0,0,,Eu não quero que ela volte a passar\Npela experiência de perder alguém.
+Dialogue: 0,0:09:13.80,0:09:17.76,Default,,0,0,0,,Frieren, conto contigo\Npara cuidar da Fern.
+Dialogue: 0,0:09:19.86,0:09:23.20,Default,,0,0,0,,Outra a vez a fingires-te\Ncorajoso, Heiter?
+Dialogue: 0,0:09:25.53,0:09:29.08,Default,,0,0,0,,Fern já há muito que está\Npronta para se despedir.
+Dialogue: 0,0:09:29.48,0:09:35.36,Default,,0,0,0,,Antes de morreres, o mais importante\Né despedires-te dela como deve ser...
+Dialogue: 0,0:09:35.55,0:09:38.98,Default,,0,0,0,,e criar muitas boas memórias.
+Dialogue: 0,0:09:41.88,0:09:43.65,Default,,0,0,0,,Frieren,
+Dialogue: 0,0:09:44.24,0:09:47.59,Default,,0,0,0,,tu és realmente\Numa boa pessoa.
+Dialogue: 0,0:09:56.46,0:09:57.44,Default,,0,0,0,,Diz-me,
+Dialogue: 0,0:09:57.90,0:09:59.90,Default,,0,0,0,,porque é que\Na salvaste?
+Dialogue: 0,0:10:16.50,0:10:19.97,Default,,0,0,0,,Se fosse o herói Himmel,\Né o que ele faria.
+Dialogue: 0,0:10:22.16,0:10:24.56,Default,,0,0,0,,É verdade.
+Dialogue: 0,0:10:36.88,0:10:39.27,Default,,0,0,0,,Então eu também,
+Dialogue: 0,0:10:39.29,0:10:41.98,Default,,0,0,0,,acho que vou\Nfazer o mesmo.
+Dialogue: 0,0:10:51.59,0:10:53.69,Default,,0,0,0,,Muito obrigada.
+Dialogue: 0,0:10:53.84,0:10:58.34,Default,,0,0,0,,Graças a si, eu pude retribuir\No favor ao senhor Heiter.
+Dialogue: 0,0:10:58.90,0:11:02.10,Default,,0,0,0,,O que eu só fiz foi\Ndeixar-me enganar.
+Dialogue: 0,0:11:02.97,0:11:05.41,Default,,0,0,0,,Por este frade\Ndesprezível.
+Dialogue: 0,0:11:10.62,0:11:12.72,Default,,0,0,0,,Então, vamos lá?
+Dialogue: 0,0:11:15.03,0:11:18.00,Default,,0,0,0,,Episódio 2: Não tinha que ser magia...
+Dialogue: 0,0:11:26.70,0:11:32.20,Default,,0,0,0,,{\pos(1300,300)}26 anos após a morte\Ndo herói Himmel\NTerras Centrais, região de Tark
+Dialogue: 0,0:11:34.71,0:11:37.89,Default,,0,0,0,,Já chega Fern.\NJá acabámos.
+Dialogue: 0,0:11:41.06,0:11:43.47,Default,,0,0,0,,Muito obrigado\Npela vossa ajuda.
+Dialogue: 0,0:11:43.50,0:11:46.50,Default,,0,0,0,,Eis a recompensa\Nprometida.
+Dialogue: 0,0:11:47.50,0:11:50.21,Default,,0,0,0,,Só temos tado a\Nfazer coisas simples.
+Dialogue: 0,0:11:50.24,0:11:52.68,Default,,0,0,0,,É o que os\Naventureiros fazem.
+Dialogue: 0,0:11:52.70,0:11:54.90,Default,,0,0,0,,Qual foi\Na recompensa?
+Dialogue: 0,0:11:54.95,0:11:58.79,Default,,0,0,0,,Magia Popular, magia\Nque faz aparecer chá quente.
+Dialogue: 0,0:11:54.95,0:11:58.79,Default,,0,0,0,,{\pos(960,910)}(povo)
+Dialogue: 0,0:11:58.91,0:12:00.87,Default,,0,0,0,,Vamos experimentar\Nmais tarde.
+Dialogue: 0,0:12:02.55,0:12:05.59,Default,,0,0,0,,Da ultima vez foi magia que limpava a\Nferrugem das estátuas de bronze.
+Dialogue: 0,0:12:06.02,0:12:10.30,Default,,0,0,0,,Antes disso, foi magia para\Ntransformar uvas doces em uvas azedas.
+Dialogue: 0,0:12:08.25,0:12:10.35,Default,,0,0,0,,{\pos(1400,800)} Que tal?
+Dialogue: 0,0:12:09.29,0:12:10.65,Default,,0,0,0,,{\pos(1000,800)} Azedo.
+Dialogue: 0,0:12:11.25,0:12:13.64,Default,,0,0,0,,Anda só a colecionar\Nmagia estranha não é?
+Dialogue: 0,0:12:13.80,0:12:15.51,Default,,0,0,0,,É o meu\Npassatempo.
+Dialogue: 0,0:12:15.82,0:12:19.46,Default,,0,0,0,,Senhora Freiren,\Ngosta mesmo de magia?
+Dialogue: 0,0:12:19.55,0:12:22.40,Default,,0,0,0,,Só um bocadinho,\Ntal como tu.
+Dialogue: 0,0:12:22.95,0:12:25.92,Default,,0,0,0,,Acho que é um\Npouco diferente.
+Dialogue: 0,0:12:26.95,0:12:28.72,Default,,0,0,0,,Somos o mesmo.
+Dialogue: 0,0:12:29.52,0:12:33.22,Default,,0,0,0,,Posso mesmo lhe\Npedir um favor?
+Dialogue: 0,0:12:33.45,0:12:38.81,Default,,0,0,0,,Eu sou só uma fitoterapeuta, por isso não\Ntenho nenhuma magia que possa ensinar.
+Dialogue: 0,0:12:38.92,0:12:44.62,Default,,0,0,0,,Sem problema, se poder ensinar sobre\Na fauna local, já é uma grande ajuda.
+Dialogue: 0,0:12:48.12,0:12:49.53,Default,,0,0,0,,É aqui.
+Dialogue: 0,0:12:54.83,0:12:57.59,Default,,0,0,0,,É o herói senhor\NHimmel não é?
+Dialogue: 0,0:12:57.72,0:13:00.07,Default,,0,0,0,,Está em pobre\Nestado não tá?
+Dialogue: 0,0:13:00.12,0:13:03.71,Default,,0,0,0,,Uma idosa sozinha já\Nnão consegue tratar disto.
+Dialogue: 0,0:13:04.36,0:13:07.64,Default,,0,0,0,,As pessoas da aldeia\Njá não se interessam.
+Dialogue: 0,0:13:30.54,0:13:36.89,Default,,0,0,0,,O senhor Himmel, lutou desesperadamente\Nquando a aldeia foi atacada por monstros
+Dialogue: 0,0:13:36.97,0:13:40.54,Default,,0,0,0,,Um tratamento assim é\Nsimplesmente demasiado cruel.
+Dialogue: 0,0:13:40.88,0:13:42.20,Default,,0,0,0,,Não.
+Dialogue: 0,0:13:42.43,0:13:44.43,Default,,0,0,0,,É o que ele merece.
+Dialogue: 0,0:13:44.49,0:13:47.28,Default,,0,0,0,,Esse fanfarrão do Himmel\Né que é o culpado.
+Dialogue: 0,0:13:47.66,0:13:52.01,Default,,0,0,0,,Ele devia ter recusado quando os moradores\Nse ofereceram para construir uma estátua.
+Dialogue: 0,0:13:53.61,0:13:56.67,Default,,0,0,0,,Que tal? Esta pose não\Né demasiado elegante?
+Dialogue: 0,0:13:56.79,0:13:59.69,Default,,0,0,0,,{\pos(960,500)} Decide-te logo.
+Dialogue: 0,0:13:58.71,0:14:00.91,Default,,0,0,0,,{\pos(400,500)} Estou com fome.
+Dialogue: 0,0:13:57.50,0:14:01.85,Default,,0,0,0,,{\pos(960,900)} Ele passou 18 horas a pensar na\Npose e deixou o artesão furioso.
+Dialogue: 0,0:14:02.41,0:14:06.52,Default,,0,0,0,,No fim, acabou por escolher uma\Npose absurdamente aborrecida.
+Dialogue: 0,0:14:07.46,0:14:09.50,Default,,0,0,0,,Que coisa esquisita\Nde se dizer.
+Dialogue: 0,0:14:10.06,0:14:15.02,Default,,0,0,0,,Agora que me lembro, havia uma elfa\Nfeiticeira no grupo do herói certo?
+Dialogue: 0,0:14:16.69,0:14:18.71,Default,,0,0,0,,Então vamos\Nlá limpá-la.
+Dialogue: 0,0:14:22.63,0:14:24.63,Default,,0,0,0,,Foi uma grande ajuda.
+Dialogue: 0,0:14:24.73,0:14:26.83,Default,,0,0,0,,Magia é mesmo incrível.
+Dialogue: 0,0:14:27.16,0:14:30.11,Default,,0,0,0,,Particularmente a estátua de bronze,\Nnem uma marca de ferrugem.
+Dialogue: 0,0:14:32.18,0:14:37.13,Default,,0,0,0,,Um pouco de cor não lhe ficaria mal.\NTalvez plante algumas flores mais tarde.
+Dialogue: 0,0:14:37.42,0:14:41.37,Default,,0,0,0,,Senhora Frieren, consegue fazer um\Ncampo de flores aparecer com magia certo?
+Dialogue: 0,0:14:41.46,0:14:45.27,Default,,0,0,0,,É verdade, umas flores\Nadequadas talvez...
+Dialogue: 0,0:14:48.00,0:14:50.98,Default,,0,0,0,,Não, talvez a\Nflor lua azul.
+Dialogue: 0,0:14:51.49,0:14:53.99,Default,,0,0,0,,Que tipo de\Nflor é essa?
+Dialogue: 0,0:14:54.10,0:14:56.39,Default,,0,0,0,,Não sei,\Nnunca a vi.
+Dialogue: 0,0:14:56.47,0:14:57.98,Default,,0,0,0,,Então porqué?
+Dialogue: 0,0:14:58.19,0:15:00.50,Default,,0,0,0,,É a flor da terra\Nnatal do Himmel.
+Dialogue: 0,0:15:00.58,0:15:03.52,Default,,0,0,0,,Mas se nunca a viu,\Nentão com magia é...
+Dialogue: 0,0:15:10.28,0:15:11.88,Default,,0,0,0,,Flor lua azul.
+Dialogue: 0,0:15:12.17,0:15:14.49,Default,,0,0,0,,Que nome nostálgico.
+Dialogue: 0,0:15:16.50,0:15:21.84,Default,,0,0,0,,Antigamente, mesmo lá no fundo daquela\Nfloresta havia um campo cheio delas.
+Dialogue: 0,0:15:27.37,0:15:29.57,Default,,0,0,0,,Não há mais\Nnenhuma por aqui?
+Dialogue: 0,0:15:30.45,0:15:32.65,Default,,0,0,0,,Estão extintas.
+Dialogue: 0,0:15:32.96,0:15:37.15,Default,,0,0,0,,Quanto aos avistamentos neste continente,\Nnão houve nenhum nas últimas décadas.
+Dialogue: 0,0:15:38.13,0:15:39.70,Default,,0,0,0,,Estou a ver.
+Dialogue: 0,0:15:42.67,0:15:44.81,Default,,0,0,0,,Fern, vamos embora.
+Dialogue: 0,0:15:44.63,0:15:46.40,Default,,0,0,0,,Com certeza.
+Dialogue: 0,0:15:50.15,0:15:52.25,Default,,0,0,0,,Escondeste\Nalguma coisa.
+Dialogue: 0,0:15:52.67,0:15:54.77,Default,,0,0,0,,Não me zango\Nmostra lá.
+Dialogue: 0,0:15:58.62,0:16:02.37,Default,,0,0,0,,São ratos sementeiros não é?\NUma praga que come sementes.
+Dialogue: 0,0:16:02.65,0:16:04.65,Default,,0,0,0,,Vou devolvê-los\Nà floresta.
+Dialogue: 0,0:16:08.82,0:16:12.30,Default,,0,0,0,,Então Fern, vamos\Nprocurar a flor lua azul.
+Dialogue: 0,0:16:12.45,0:16:14.45,Default,,0,0,0,,Está a falar a sério?
+Dialogue: 0,0:16:14.62,0:16:17.80,Default,,0,0,0,,Até há pouco tempo, existia uma colónia no interior desta floresta...
+Dialogue: 0,0:16:17.43,0:16:19.14,Default,,0,0,0,,Há décadas atrás!
+Dialogue: 0,0:16:19.46,0:16:21.75,Default,,0,0,0,,Mas vale a pena procurar.
+Dialogue: 0,0:16:22.53,0:16:24.93,Default,,0,0,0,,Se encontrarmos um exemplar\Nlegítimo e analisarmos,
+Dialogue: 0,0:16:24.98,0:16:28.17,Default,,0,0,0,,podemos obter a magia para\Nfazer a flor lua azul florescer.
+Dialogue: 0,0:16:28.80,0:16:31.00,Default,,0,0,0,,É pelo senhor Himmel?
+Dialogue: 0,0:16:31.26,0:16:32.59,Default,,0,0,0,,Não.
+Dialogue: 0,0:16:32.76,0:16:34.86,Default,,0,0,0,,Estou provavelmente\Na fazê-lo por mim.
+Dialogue: 0,0:17:27.64,0:17:33.55,Default,,0,0,0,,Senhora Frieren, já passaram 6 meses desde\Nque começámos a procurar a flor lua azul.
+Dialogue: 0,0:17:33.64,0:17:38.08,Default,,0,0,0,,Tens razão, talvez está na altura\Nde alargarmos a área de busca.
+Dialogue: 0,0:17:46.63,0:17:50.57,Default,,0,0,0,,Ora? É estranho\Nver-te sozinha.
+Dialogue: 0,0:17:52.85,0:17:57.02,Default,,0,0,0,,Já passou bastante tempo desde\Nque vocês chegaram à aldeia.
+Dialogue: 0,0:17:57.91,0:18:00.69,Default,,0,0,0,,Já encontraram a\Nflor lua azul?
+Dialogue: 0,0:18:01.27,0:18:03.29,Default,,0,0,0,,Acha que a\Nvamos encontrar?
+Dialogue: 0,0:18:05.15,0:18:08.84,Default,,0,0,0,,A obsessão da senhora\NFrieren pela magia é anormal.
+Dialogue: 0,0:18:09.39,0:18:14.06,Default,,0,0,0,,A este ritmo, ela vai procurar\Ndurante anos ou até décadas.
+Dialogue: 0,0:18:14.87,0:18:19.33,Default,,0,0,0,,A senhora Frieren é uma feiticeira\Ncom o poder de salvar muitas pessoas.
+Dialogue: 0,0:18:20.28,0:18:25.44,Default,,0,0,0,,Desperdiçar tempo em algo que pode\Nnem sequer existir, é inaceitável.
+Dialogue: 0,0:18:26.96,0:18:29.06,Default,,0,0,0,,Ainda és muito jovem.
+Dialogue: 0,0:18:30.07,0:18:33.36,Default,,0,0,0,,Estarei enganada no\Nmeu raciocínio?
+Dialogue: 0,0:18:33.95,0:18:36.12,Default,,0,0,0,,De maneira nenhuma.
+Dialogue: 0,0:18:37.09,0:18:41.93,Default,,0,0,0,,Mas, é provavelmente diferente\Npara a senhorita Freiren.
+Dialogue: 0,0:18:44.63,0:18:49.41,Default,,0,0,0,,Contudo, ela é muito\Nmais madura do que nós.
+Dialogue: 0,0:18:49.48,0:18:54.18,Default,,0,0,0,,Se expressares os teus sentimentos de\Nforma sincera, decerteza ela compreenderá.
+Dialogue: 0,0:19:12.33,0:19:15.03,Default,,0,0,0,,Aparentemente, estas são\Nsementes de uma espécie próxima,
+Dialogue: 0,0:19:15.07,0:19:17.27,Default,,0,0,0,,guardadas pelas suas\Npropriedades medicinais.
+Dialogue: 0,0:19:17.59,0:19:21.69,Default,,0,0,0,,Em vez disso, pode plantar estas à\Nvolta da estátua do senhor Himmel.
+Dialogue: 0,0:19:22.06,0:19:24.37,Default,,0,0,0,,Já entendi Fern,
+Dialogue: 0,0:19:24.09,0:19:26.29,Default,,0,0,0,,desculpa preocupar-te.
+Dialogue: 0,0:19:29.48,0:19:32.60,Default,,0,0,0,,Desta vez não\Né só o meu tempo.
+Dialogue: 0,0:19:32.55,0:19:34.75,Default,,0,0,0,,Estamos lá quase.
+Dialogue: 0,0:19:34.70,0:19:37.19,Default,,0,0,0,,Acabaremos depois de\Nprocurar mais um pouco.
+Dialogue: 0,0:19:39.54,0:19:41.01,Default,,0,0,0,,Mais um pouco,
+Dialogue: 0,0:19:41.03,0:19:42.46,Default,,0,0,0,,quantos mais anos?
+Dialogue: 0,0:19:42.48,0:19:44.07,Default,,0,0,0,,Só mais um pouco.
+Dialogue: 0,0:19:44.62,0:19:47.96,Default,,0,0,0,,Tu realmente, não\Nsabes quando desistir...
+Dialogue: 0,0:19:59.19,0:20:00.88,Default,,0,0,0,,Vamos segui-lo.
+Dialogue: 0,0:20:30.93,0:20:32.56,Default,,0,0,0,,Senhora Frieren,
+Dialogue: 0,0:20:32.59,0:20:34.59,Default,,0,0,0,,porque é que\Ncoleciona feitiços?
+Dialogue: 0,0:20:35.21,0:20:36.78,Default,,0,0,0,,É só um\Npassatempo.
+Dialogue: 0,0:20:36.80,0:20:38.80,Default,,0,0,0,,Não me parece.
+Dialogue: 0,0:20:39.30,0:20:41.30,Default,,0,0,0,,É mesmo só\Num passatempo.
+Dialogue: 0,0:20:41.93,0:20:45.96,Default,,0,0,0,,Antes vivia sem motivação\Ne preguiçosamente.
+Dialogue: 0,0:21:11.20,0:21:12.85,Default,,0,0,0,,Que repugnante.
+Dialogue: 0,0:21:21.15,0:21:25.15,Default,,0,0,0,,Havia um idiota que me elogiava\Npela magia que colecionava.
+Dialogue: 0,0:21:25.41,0:21:26.73,Default,,0,0,0,,É só isso.
+Dialogue: 0,0:21:28.61,0:21:30.52,Default,,0,0,0,,Que motivo ridículo.
+Dialogue: 0,0:21:31.20,0:21:32.76,Default,,0,0,0,,É mesmo.
+Dialogue: 0,0:21:54.56,0:21:55.95,Default,,0,0,0,,isso é.
+Dialogue: 0,0:21:55.68,0:21:57.16,Default,,0,0,0,,Uma pétala.
+Dialogue: 0,0:21:57.93,0:22:03.38,Default,,0,0,0,,Diz‑se que os ratos sementeiros, enterram a\Ncomida em locais seguros longe de predadores.
+Dialogue: 0,0:22:03.93,0:22:06.01,Default,,0,0,0,,É um animal\Ninteligente então.
+Dialogue: 0,0:22:06.22,0:22:08.28,Default,,0,0,0,,Nem por isso.
+Dialogue: 0,0:22:08.46,0:22:13.73,Default,,0,0,0,,Como enterram em vários lugares,\Nacabam por esquecer onde o esconderam.
+Dialogue: 0,0:22:17.91,0:22:19.49,Default,,0,0,0,,Flor lua azul?
+Dialogue: 0,0:22:19.53,0:22:21.73,Default,,0,0,0,,É uma flor da\Nminha terra natal.
+Dialogue: 0,0:22:21.93,0:22:23.82,Default,,0,0,0,,É muito linda.
+Dialogue: 0,0:22:24.44,0:22:26.99,Default,,0,0,0,,Bem, não\Ntanto como eu.
+Dialogue: 0,0:22:26.81,0:22:28.91,Default,,0,0,0,,Já é hora\Nde irmos.
+Dialogue: 0,0:22:29.82,0:22:31.08,Default,,0,0,0,,Frieren.
+Dialogue: 0,0:22:31.73,0:22:33.73,Default,,0,0,0,,Um dia quero\Nmostrar-te.
+Dialogue: 0,0:22:35.05,0:22:37.62,Default,,0,0,0,,Talvez, se a\Noportunidade mostrar-se.
+Dialogue: 0,0:22:46.01,0:22:50.07,Default,,0,0,0,,Achei que existia, mas nunca\Npensei que fossem tantas.
+Dialogue: 0,0:22:54.10,0:22:57.01,Default,,0,0,0,,Desculpa a\Ndemora, Himmel.
+Dialogue: 0,0:23:02.44,0:23:04.75,Default,,0,0,0,,Nem acredito que\Na encontrámos mesmo.
+Dialogue: 0,0:23:05.36,0:23:08.15,Default,,0,0,0,,Agora podemos fazer a magia\Npara florescer flor lua azul.
+Dialogue: 0,0:23:08.79,0:23:11.74,Default,,0,0,0,,Porque é que se\Ndedica tanto à magia?
+Dialogue: 0,0:23:12.32,0:23:14.00,Default,,0,0,0,,Não consigo entender.
+Dialogue: 0,0:23:14.49,0:23:16.02,Default,,0,0,0,,Mas devias.
+Dialogue: 0,0:23:16.62,0:23:20.32,Default,,0,0,0,,Afinal não desististe\Nem ser feiticeira.
+Dialogue: 0,0:23:21.32,0:23:23.21,Default,,0,0,0,,Não diria isso.
+Dialogue: 0,0:23:23.55,0:23:28.60,Default,,0,0,0,,Desde que tivesse o poder para\Nviver sozinha, qualquer coisa servia.
+Dialogue: 0,0:23:29.34,0:23:31.54,Default,,0,0,0,,Não tinha que ser magia.
+Dialogue: 0,0:23:32.07,0:23:35.45,Default,,0,0,0,,Mas, escolheste magia.
+Dialogue: 0,0:23:47.64,0:23:49.10,Default,,0,0,0,,É verdade.
+Dialogue: 0,0:23:51.05,0:23:55.86,Default,,0,0,0,,Não pensei que iria ver,\Nflor lua azul outra vez.
+Dialogue: 0,0:23:56.36,0:23:58.19,Default,,0,0,0,,Mesmo lindo.
+Dialogue: 0,0:23:58.98,0:24:01.28,Default,,0,0,0,,Muito obrigada\Nsenhorita Frieren.
+Dialogue: 0,0:24:01.59,0:24:05.35,Default,,0,0,0,,Desta forma, com certeza que\Na estátua não será esquecida.
+Dialogue: 0,0:24:06.97,0:24:09.17,Default,,0,0,0,,Esqueci-me\Nde uma coisa.
+Dialogue: 0,0:24:10.27,0:24:11.41,Default,,0,0,0,,Pronto.
+Dialogue: 0,0:24:12.37,0:24:15.16,Default,,0,0,0,,Ora, que engraçadinho.
+Dialogue: 0,0:24:15.85,0:24:17.60,Default,,0,0,0,,Então vamos\Nlá embora?
+Dialogue: 0,0:24:20.13,0:24:22.09,Default,,0,0,0,,Estás bem?
+Dialogue: 0,0:24:23.14,0:24:25.10,Default,,0,0,0,,Consegues ouvir-me?
+Dialogue: 0,0:24:25.82,0:24:31.87,Default,,0,0,0,,Sigo o caminho onde não\Nhá mais ninguém.
+Dialogue: 0,0:24:32.09,0:24:37.31,Default,,0,0,0,,A chorar exageradamente,\Nesperando que sorrias.
+Dialogue: 0,0:24:37.57,0:24:43.58,Default,,0,0,0,,Segurando com força as memórias\Nque desesperadamente quero guardar.
+Dialogue: 0,0:24:43.60,0:24:49.61,Default,,0,0,0,,Quero expressar isto com palavras muito mais preciosas do que ‘adeus’.
+Dialogue: 0,0:24:49.64,0:24:55.50,Default,,0,0,0,,Mesmo que seja comum,\Ncontinua a ser especial.
+Dialogue: 0,0:24:55.52,0:25:06.65,Default,,0,0,0,,Olha, as coisas que não conseguia ver com estes olhos. Porque é que estão a transbordar agora?
+Dialogue: 0,0:25:06.68,0:25:12.64,Default,,0,0,0,,Mesmo que renascesse,
+Dialogue: 0,0:25:12.66,0:25:18.76,Default,,0,0,0,,ainda assim escolheria\Neste caminho.
+Dialogue: 0,0:25:18.79,0:25:24.75,Default,,0,0,0,,Se nos encontrarmos novamente,
+Dialogue: 0,0:25:24.77,0:25:30.44,Default,,0,0,0,,não te largarei, escolheria\Neste momento.
+Dialogue: 0,0:25:30.47,0:25:36.58,Default,,0,0,0,,Mesmo sem promessas,\Nmesmo nos dias solitários,
+Dialogue: 0,0:25:36.58,0:25:42.77,Default,,0,0,0,,as tuas lágrimas serão suficientes\Ncertamente, um novo dia virá.
+Dialogue: 0,0:25:42.83,0:25:49.25,Default,,0,0,0,,Estou a sussurrar uma canção\Nde embalar para que voltes a casa.
+Dialogue: 0,0:25:50.43,0:25:52.43,Default,,0,0,0,,{\pos(1444,300)} Então isso não é\Ndemasiado forte?!
+Dialogue: 0,0:25:51.43,0:25:53.13,Default,,0,0,0,,{\pos(300,500)}O sábio da\Ncorrupção Kuvar
+Dialogue: 0,0:25:52.61,0:25:55.41,Default,,0,0,0,,{\pos(1060,600)} "Nem vem ver como eu estou,\Nela é mesmo insensível."
+Dialogue: 0,0:25:53.87,0:25:56.67,Default,,0,0,0,,{\pos(700,300)} Quantos anos achas\Nque temos viajado juntos?
+Dialogue: 0,0:25:53.80,0:25:55.70,Default,,0,0,0,,{\pos(700,800)} Então, vamos tentar\Nalgo mais avançado.
+Dialogue: 0,0:25:55.72,0:25:58.12,Default,,0,0,0,,{\pos(1060,600)} Esta viagem tem\Nalgum objetivo?
+Dialogue: 0,0:25:56.03,0:25:57.54,Default,,0,0,0,,{\pos(1400,300)} Estudar a teoria\Ntambém é importante.
+Dialogue: 0,0:25:58.26,0:26:00.26,Default,,0,0,0,,{\pos(960,800)} Episódio 3:\NÉ magia para matar pessoas.

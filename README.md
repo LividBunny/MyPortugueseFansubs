@@ -1,19 +1,17 @@
-# MyPortugueseFansubs
-Fansubs que fiz para explorar a ofício e melhorar o meu Português.
-Fansubs I made to explore the craft and to touch up on my Portuguese.
----------------
-Current Fansubs are of the show Sousou no Frieren.
-3 episodes
-Os fansubs atuais são do programa Sousou no Frieren.
-3 episódios
+Fansubs que fiz para explorar a ofício e melhorar o meu Português.<br>
+Fansubs I made to explore the craft and to touch up on my Portuguese.<br>
+---------------<br>
+Current Fansubs are of the show Sousou no Frieren.<br>
+3 episodes<br>
+Os fansubs atuais são do programa Sousou no Frieren.<br>
+3 episódios<br>
+-----------------------<br>
+Ferramentas usadas<br>
+  Legendas Japonesas<br>
+  ChatGPT e Google Tradutor<br>
+  Mente enriquecida por programas japoneses<br>
 
------------------------
-Ferramentas usadas
-  Legendas Japonesas
-  ChatGPT e Google Tradutor
-  Mente enriquecida por programas japoneses
-
-Tools used
-  Japanese subtitles
-  ChatGPT and Google Translate
-  Mind-enriched by japanese programs
+Tools used<br>
+  Japanese subtitles<br>
+  ChatGPT and Google Translate<br>
+  Mind-enriched by japanese programs<br>

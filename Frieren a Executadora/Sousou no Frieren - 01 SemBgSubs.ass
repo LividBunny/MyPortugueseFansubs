@@ -30,8 +30,8 @@ Dialogue: 0,0:01:03.65,0:01:06.95,Default,,0,0,0,,As lágrimas que me\Ncorrem pe
 Dialogue: 0,0:01:06.98,0:01:10.28,Default,,0,0,0,,quero entendê-las\Nmelhor mesmo já tarde.
 Dialogue: 0,0:01:10.31,0:01:12.81,Default,,0,0,0,,Se traçar a viagem\Nque fizemos juntos,
 Dialogue: 0,0:01:12.83,0:01:17.93,Default,,0,0,0,,mesmo que não estejas lá,\Nde certeza te encontrarei.
-Dialogue: 0,0:01:17.93,0:01:20.47,Default,,0,0,0,,No fim começa uma nova história
-Dialogue: 0,0:01:20.49,0:01:22.49,Default,,0,0,0,,A conhecer as pessoas desta viagem
+Dialogue: 0,0:01:17.93,0:01:20.47,Default,,0,0,0,,No fim começa uma nova história.
+Dialogue: 0,0:01:20.49,0:01:22.49,Default,,0,0,0,,A conhecer as pessoas desta viagem.
 Dialogue: 0,0:01:22.52,0:01:27.42,Default,,0,0,0,,A história dos nossos dias continuará, para sempre, sempre, sempre, enquanto caminhamos agora.
 Dialogue: 0,0:01:30.02,0:01:39.75,Default,,0,0,0,,{\pos(1200,400)}No extremo norte do continente,\Ncheguei ao lugar a que as pessoas\Ndeste mundo chamam céu,\NAureole, "a terra onde as almas repousam".
 Dialogue: 0,0:01:39.78,0:01:47.84,Default,,0,0,0,,{\pos(1200,400)} Um lugar onde muitas almas se reúnem, e aí\Nconversei com os meus velhos camaradas.\N-Grande Feiticeira Flamme
@@ -181,7 +181,7 @@ Dialogue: 0,0:13:34.14,0:13:39.94,Default,,0,0,0,,Quanto a mim, estive à espera
 Dialogue: 0,0:13:40.51,0:13:42.51,Default,,0,0,0,,Obrigado Frieren.
 Dialogue: 0,0:13:43.30,0:13:49.00,Default,,0,0,0,,É graças a ti, que pude ter\Numa última aventura animada.
 Dialogue: 0,0:14:12.73,0:14:14.73,Default,,0,0,0,,Tão lindo.
-Dialogue: 0,0:14:41.42,0:14:45.32,Default,,0,0,0,,Creio que Himmel\Nestava feliz.
+Dialogue: 0,0:14:41.42,0:14:45.32,Default,,0,0,0,,Creio que o\NHimmel estava feliz.
 Dialogue: 0,0:14:46.29,0:14:48.29,Default,,0,0,0,,Achas mesmo?
 Dialogue: 0,0:14:54.86,0:14:58.26,Default,,0,0,0,,Aquela rapariga é um dos\Ncompanheiros do senhor Himmel?
 Dialogue: 0,0:14:58.28,0:15:00.78,Default,,0,0,0,,Nem parece\Nter cara triste.
@@ -261,7 +261,7 @@ Dialogue: 0,0:21:16.70,0:21:18.50,Default,,0,0,0,,Estou a ver.
 Dialogue: 0,0:21:18.75,0:21:21.25,Default,,0,0,0,,Então um outro favor.
 Dialogue: 0,0:21:26.21,0:21:29.81,Default,,0,0,0,,Isto foi escavado do\Ntúmulo do Sábio Ewig.
 Dialogue: 0,0:21:30.13,0:21:34.53,Default,,0,0,0,,Este grimório contém, os feitiços agora\Nperdidos, como a ressurreição dos mortos,
-Dialogue: 0,0:21:34.52,0:21:37.82,Default,,0,0,0,,diz-se que este grimório\Ncontém magia da imortalidade.
+Dialogue: 0,0:21:34.52,0:21:37.82,Default,,0,0,0,,diz-se que contém\Nmagia da imortalidade.
 Dialogue: 0,0:21:37.87,0:21:41.47,Default,,0,0,0,,Não creio que este tipo de\Nmagia exista realmente.
 Dialogue: 0,0:21:41.50,0:21:45.30,Default,,0,0,0,,Mesmo assim, gostaria\Nque o decifrasses.
 Dialogue: 0,0:21:45.37,0:21:46.97,Default,,0,0,0,,Consegues fazê-lo?
@@ -314,7 +314,7 @@ Dialogue: 0,0:24:49.60,0:24:55.50,Default,,0,0,0,,comuns, mas especiais.
 Dialogue: 0,0:24:55.57,0:25:01.97,Default,,0,0,0,,Ora se não fossem estes\Nolhos, não conseguia ver.
 Dialogue: 0,0:25:01.99,0:25:06.69,Default,,0,0,0,,Porquê que transbordam?
 Dialogue: 0,0:25:06.74,0:25:12.64,Default,,0,0,0,,Portanto mesmo\Nque renascesse,
-Dialogue: 0,0:25:12.67,0:25:18.47,Default,,0,0,0,,voltaria a\Nescolher este lugar.
+Dialogue: 0,0:25:12.67,0:25:18.47,Default,,0,0,0,,ainda voltaria a\Nescolher este lugar.
 Dialogue: 0,0:25:18.56,0:25:24.46,Default,,0,0,0,,Por isso se voltasse\Na cruzar‑me contigo,
 Dialogue: 0,0:25:24.56,0:25:30.16,Default,,0,0,0,,não te largaria,\Nescolheria este momento.
 Dialogue: 0,0:25:30.18,0:25:35.88,Default,,0,0,0,,Mesmo sem promessas, mesmo\Nnos dias solitários e confusos,

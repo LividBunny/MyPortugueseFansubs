@@ -30,8 +30,8 @@ Dialogue: 0,0:01:03.65,0:01:06.95,Default,,0,0,0,,As lágrimas que me\Ncorrem pe
 Dialogue: 0,0:01:06.98,0:01:10.28,Default,,0,0,0,,quero entendê-las\Nmelhor mesmo já tarde.
 Dialogue: 0,0:01:10.31,0:01:12.81,Default,,0,0,0,,Se traçar a viagem\Nque fizemos juntos,
 Dialogue: 0,0:01:12.83,0:01:17.93,Default,,0,0,0,,mesmo que não estejas lá,\Nde certeza te encontrarei.
-Dialogue: 0,0:01:17.93,0:01:20.47,Default,,0,0,0,,No fim começa uma nova história
-Dialogue: 0,0:01:20.49,0:01:22.49,Default,,0,0,0,,A conhecer as pessoas desta viagem
+Dialogue: 0,0:01:17.93,0:01:20.47,Default,,0,0,0,,No fim começa uma nova história.
+Dialogue: 0,0:01:20.49,0:01:22.49,Default,,0,0,0,,A conhecer as pessoas desta viagem.
 Dialogue: 0,0:01:22.52,0:01:27.42,Default,,0,0,0,,A história dos nossos dias continuará, para sempre, sempre, sempre, enquanto caminhamos agora.
 Dialogue: 0,0:01:30.02,0:01:39.75,Default,,0,0,0,,{\pos(1200,400)}No extremo norte do continente,\Ncheguei ao lugar a que as pessoas\Ndeste mundo chamam céu,\NAureole, "a terra onde as almas repousam".
 Dialogue: 0,0:01:39.78,0:01:47.84,Default,,0,0,0,,{\pos(1200,400)} Um lugar onde muitas almas se reúnem, e aí\Nconversei com os meus velhos camaradas.\N-Grande Feiticeira Flamme
@@ -146,7 +146,7 @@ Dialogue: 0,0:10:00.86,0:10:04.76,Default,,0,0,0,,Mesmo velhinho, estou \Nrazoav
 Dialogue: 0,0:10:06.27,0:10:08.17,Default,,0,0,0,,50 anos já\Npassaram não é?
 Dialogue: 0,0:10:08.39,0:10:10.79,Default,,0,0,0,,E tu continuas com\Na mesma aparência.
 Dialogue: 0,0:10:11.93,0:10:14.93,Default,,0,0,0,,Pensei que nunca\Nmais te veria.
-Dialogue: 0,0:10:17.61,0:10:19.31,Default,,0,0,0,,A chuva de meteoritos Era.
+Dialogue: 0,0:10:17.61,0:10:19.31,Default,,0,0,0,,A chuva de meteoritos Era?
 Dialogue: 0,0:10:19.85,0:10:21.65,Default,,0,0,0,,Que nostálgico.
 Dialogue: 0,0:10:21.79,0:10:24.79,Default,,0,0,0,,E aquilo que trouxemos do\N castelo do Rei demoníaco.
 Dialogue: 0,0:10:24.85,0:10:27.25,Default,,0,0,0,,O chifre do Dragão\NNegro certo?
@@ -162,9 +162,9 @@ Dialogue: 0,0:11:09.85,0:11:12.85,Default,,0,0,0,,Não é algo assim\Ntão impor
 Dialogue: 0,0:11:32.61,0:11:34.41,Default,,0,0,0,,Himmel ainda\Nte demoras?
 Dialogue: 0,0:11:34.65,0:11:37.85,Default,,0,0,0,,Tás careca não tens que te\Npreocupar muito com isso.
 Dialogue: 0,0:11:38.33,0:11:41.13,Default,,0,0,0,,Mesmo careca não deixo de\Nter as minhas particularidades.
-Dialogue: 0,0:11:48.00,0:11:51.50,Default,,0,0,0,,Então, vamos lá ver a\Nchuva de meteoritos Era.
-Dialogue: 0,0:11:59.75,0:12:02.45,Default,,0,0,0,,Tens um ar bastante\Ndigno, Heiter.
-Dialogue: 0,0:12:02.48,0:12:04.78,Default,,0,0,0,,Afinal, sou um\Nbispo da Cidade Santa.
+Dialogue: 0,0:11:48.00,0:11:51.50,Default,,0,0,0,,Então, vamos lá ver a\Nchuva de meteoritos Era?
+Dialogue: 0,0:11:59.75,0:12:02.45,Default,,0,0,0,,Tens um ar bastante\Ndigno Heiter.
+Dialogue: 0,0:12:02.48,0:12:04.78,Default,,0,0,0,,Afinal sou um\Nbispo da Cidade Santa.
 Dialogue: 0,0:12:04.80,0:12:07.60,Default,,0,0,0,,Tu não mudaste\Nnem um bocado.
 Dialogue: 0,0:12:07.94,0:12:10.14,Default,,0,0,0,,Não me acaricies\Na cabeça.
 Dialogue: 0,0:12:11.14,0:12:14.04,Default,,0,0,0,,Aizen não parece\Nteres mudado muito.
@@ -182,11 +182,11 @@ Dialogue: 0,0:12:52.44,0:12:55.04,Default,,0,0,0,,Viajámos por\Ntantos sítios.
 Dialogue: 0,0:12:55.97,0:12:58.57,Default,,0,0,0,,Era tudo tão novo…
 Dialogue: 0,0:12:59.05,0:13:01.35,Default,,0,0,0,,e parecia brilhar.
 Dialogue: 0,0:13:25.84,0:13:31.34,Default,,0,0,0,,Nessas belas recordações,\Nvocês estavam sempre lá.
-Dialogue: 0,0:13:34.14,0:13:39.94,Default,,0,0,0,,Quanto a mim, estive à espera deste\Ndia, em que todos estaríamos juntos.
+Dialogue: 0,0:13:34.14,0:13:39.94,Default,,0,0,0,,Quanto a mim, estive à espera deste\Ndia em que todos estaríamos juntos.
 Dialogue: 0,0:13:40.51,0:13:42.51,Default,,0,0,0,,Obrigado Frieren.
 Dialogue: 0,0:13:43.30,0:13:49.00,Default,,0,0,0,,É graças a ti, que pude ter\Numa última aventura animada.
 Dialogue: 0,0:14:12.73,0:14:14.73,Default,,0,0,0,,Tão lindo.
-Dialogue: 0,0:14:41.42,0:14:45.32,Default,,0,0,0,,Creio que Himmel\Nestava feliz.
+Dialogue: 0,0:14:41.42,0:14:45.32,Default,,0,0,0,,Creio que o\NHimmel estava feliz.
 Dialogue: 0,0:14:46.29,0:14:48.29,Default,,0,0,0,,Achas mesmo?
 Dialogue: 0,0:14:54.86,0:14:58.26,Default,,0,0,0,,Aquela rapariga é um dos\Ncompanheiros do senhor Himmel?
 Dialogue: 0,0:14:58.28,0:15:00.78,Default,,0,0,0,,Nem parece\Nter cara triste.
@@ -196,10 +196,10 @@ Dialogue: 0,0:15:07.39,0:15:10.39,Default,,0,0,0,,- Bispos deviam de levar isto 
 Dialogue: 0,0:15:11.71,0:15:13.71,Default,,0,0,0,,Isso dói um bocado.
 Dialogue: 0,0:15:37.13,0:15:41.73,Default,,0,0,0,,A final de contas eu, nunca\No conheci pessoalmente.
 Dialogue: 0,0:15:53.12,0:15:58.02,Default,,0,0,0,,Foram só 10 anos,\Nque viajámos juntos.
-Dialogue: 0,0:16:04.43,0:16:08.83,Default,,0,0,0,,Sabia que a vida de humano\Nera breve...e mesmo assim.
-Dialogue: 0,0:16:10.11,0:16:15.11,Default,,0,0,0,,Porque é que não,\Ntentei conhece-lo melhor?
+Dialogue: 0,0:16:04.43,0:16:08.83,Default,,0,0,0,,Sabia que a vida de humano\Nera breve, e mesmo assim.
+Dialogue: 0,0:16:10.11,0:16:15.11,Default,,0,0,0,,Porque é que não,\Ntentei conhecê-lo melhor?
 Dialogue: 0,0:16:24.03,0:16:26.53,Default,,0,0,0,,Não me acaricies a cabeça.
-Dialogue: 0,0:16:34.78,0:16:38.48,Default,,0,0,0,,Bem, é hora de eu\Npartir para a Cidade Santa.
+Dialogue: 0,0:16:34.78,0:16:38.48,Default,,0,0,0,,Bem é hora de eu\Npartir para a Cidade Santa.
 Dialogue: 0,0:16:41.18,0:16:43.98,Default,,0,0,0,,Vocês os dois, deixem-me\Nver bem as vossas caras.
 Dialogue: 0,0:16:44.39,0:16:46.99,Default,,0,0,0,,Afinal pode ser\Na última vez.
 Dialogue: 0,0:16:47.14,0:16:48.74,Default,,0,0,0,,Tens algo de errado?
@@ -212,20 +212,20 @@ Dialogue: 0,0:17:05.65,0:17:09.25,Default,,0,0,0,,Somos do grupo heroico\Nque sa
 Dialogue: 0,0:17:09.42,0:17:13.62,Default,,0,0,0,,Após a morte decerto que\Nviveremos em luxo no céu.
 Dialogue: 0,0:17:13.89,0:17:17.89,Default,,0,0,0,,Foi por isso que\Nlutei ao vosso lado.
 Dialogue: 0,0:17:17.91,0:17:19.61,Default,,0,0,0,,Frade desprezível.
-Dialogue: 0,0:17:21.85,0:17:24.05,Default,,0,0,0,,Se me dão licença,\Nvou andando.
+Dialogue: 0,0:17:21.85,0:17:24.05,Default,,0,0,0,,Se me dão licença\Nvou andando.
 Dialogue: 0,0:17:31.58,0:17:35.18,Default,,0,0,0,,Bem, também me\Ndevo pôr a caminho.
 Dialogue: 0,0:17:35.42,0:17:37.52,Default,,0,0,0,,Vais à procura de\Nmais feitiços?
 Dialogue: 0,0:17:37.73,0:17:39.93,Default,,0,0,0,,Sim, também\Nhá isso mas.
 Dialogue: 0,0:17:40.50,0:17:43.60,Default,,0,0,0,,Eu quero aprender mais\Nsobre a humanidade.
 Dialogue: 0,0:17:45.44,0:17:46.94,Default,,0,0,0,,Estou a ver.
-Dialogue: 0,0:17:47.55,0:17:49.95,Default,,0,0,0,,Falando nisso, tenho uma\Nproposta para te fazer.
+Dialogue: 0,0:17:47.55,0:17:49.95,Default,,0,0,0,,Falando nisso tenho uma\Nproposta para te fazer.
 Dialogue: 0,0:17:49.99,0:17:54.99,Default,,0,0,0,,Porque eu sou feiticeira, dava \Njeito ter um vanguarda forte.
 Dialogue: 0,0:17:55.01,0:17:57.01,Default,,0,0,0,,Poupa-me.
 Dialogue: 0,0:17:57.10,0:18:00.60,Default,,0,0,0,,Já não tenho idade para\Nempunhar um machado.
-Dialogue: 0,0:18:03.26,0:18:05.86,Default,,0,0,0,,Não faças essa\Ncara, Frieren.
-Dialogue: 0,0:18:06.04,0:18:11.24,Default,,0,0,0,,Curiosamente, a vida parece durar\Nmais, depois de nos tornarmos velhos.
+Dialogue: 0,0:18:03.26,0:18:05.86,Default,,0,0,0,,Não faças essa\Ncara Frieren.
+Dialogue: 0,0:18:06.04,0:18:11.24,Default,,0,0,0,,Curiosamente a vida parece durar\Nmais, depois de nos tornarmos velhos.
 Dialogue: 0,0:18:12.90,0:18:14.40,Default,,0,0,0,,Estou a ver.
-Dialogue: 0,0:18:14.62,0:18:17.02,Default,,0,0,0,,Então até\Nlogo, Aizen.
+Dialogue: 0,0:18:14.62,0:18:17.02,Default,,0,0,0,,Então até\Nlogo Aizen.
 Dialogue: 0,0:18:17.26,0:18:19.16,Default,,0,0,0,,Sim, até logo.
 Dialogue: 0,0:18:53.50,0:18:56.90,Default,,0,0,0,,Episódio 1: O fim da aventura
 Dialogue: 0,0:19:00.49,0:19:04.79,Default,,0,0,0,,É a árvore de há pouco.\NPerco-me sempre nesta floresta.
@@ -252,9 +252,9 @@ Dialogue: 0,0:20:18.40,0:20:20.60,Default,,0,0,0,,Afinal não\Nés o Himmel.
 Dialogue: 0,0:20:22.78,0:20:25.98,Default,,0,0,0,,Frieren, porque\Né que cá vieste?
 Dialogue: 0,0:20:26.00,0:20:28.40,Default,,0,0,0,,Ia às compras na Cidade\NSanta e resolvi passar por cá.
 Dialogue: 0,0:20:28.60,0:20:32.60,Default,,0,0,0,,Tenho-me tentado envolver e conhecer\Nas pessoas que encontro pelo caminho
-Dialogue: 0,0:20:33.25,0:20:36.25,Default,,0,0,0,,Além disso,\Ndevo-te muito.
+Dialogue: 0,0:20:33.25,0:20:36.25,Default,,0,0,0,,Além disso\Ndevo-te muito.
 Dialogue: 0,0:20:36.34,0:20:38.74,Default,,0,0,0,,Vim pagar a dívida \Nantes que morresses.
-Dialogue: 0,0:20:41.80,0:20:44.40,Default,,0,0,0,,Nesse caso,\Ntenho um favor.
+Dialogue: 0,0:20:41.80,0:20:44.40,Default,,0,0,0,,Nesse caso\Ntenho um favor.
 Dialogue: 0,0:20:45.28,0:20:47.58,Default,,0,0,0,,Aceitas uma aprendiz?
 Dialogue: 0,0:20:49.04,0:20:52.94,Default,,0,0,0,,Fern tem talento\Npara feitiçaria.
 Dialogue: 0,0:20:52.94,0:20:56.24,Default,,0,0,0,,Achas que a podias\Nlevar na tua viagem?
@@ -265,10 +265,10 @@ Dialogue: 0,0:21:09.90,0:21:14.00,Default,,0,0,0,,Não tenho intenção de levar
 Dialogue: 0,0:21:16.70,0:21:18.50,Default,,0,0,0,,Estou a ver.
 Dialogue: 0,0:21:18.75,0:21:21.25,Default,,0,0,0,,Então um outro favor.
 Dialogue: 0,0:21:26.21,0:21:29.81,Default,,0,0,0,,Isto foi escavado do\Ntúmulo do Sábio Ewig.
-Dialogue: 0,0:21:30.13,0:21:34.53,Default,,0,0,0,,Este grimório contém, os feitiços agora\Nperdidos, como a ressurreição dos mortos,
-Dialogue: 0,0:21:34.52,0:21:37.82,Default,,0,0,0,,diz-se que este grimório\Ncontém magia da imortalidade.
+Dialogue: 0,0:21:30.13,0:21:34.53,Default,,0,0,0,,Este grimório contém, os feitiços agora\Nperdidos como a ressurreição dos mortos,
+Dialogue: 0,0:21:34.52,0:21:37.82,Default,,0,0,0,,diz-se que contém\Nmagia da imortalidade.
 Dialogue: 0,0:21:37.87,0:21:41.47,Default,,0,0,0,,Não creio que este tipo de\Nmagia exista realmente.
-Dialogue: 0,0:21:41.50,0:21:45.30,Default,,0,0,0,,Mesmo assim, gostaria\Nque o decifrasses.
+Dialogue: 0,0:21:41.50,0:21:45.30,Default,,0,0,0,,Mesmo assim gostaria\Nque o decifrasses.
 Dialogue: 0,0:21:45.37,0:21:46.97,Default,,0,0,0,,Consegues fazê-lo?
 Dialogue: 0,0:21:47.16,0:21:49.36,Default,,0,0,0,,É um código de\Nimagem certo?
 Dialogue: 0,0:21:49.38,0:21:52.48,Default,,0,0,0,,As pessoas dessa época\Ngostavam muito disso.
@@ -281,17 +281,17 @@ Dialogue: 0,0:22:06.22,0:22:10.72,Default,,0,0,0,,Primeiro, estava só a fingir 
 Dialogue: 0,0:22:10.81,0:22:15.81,Default,,0,0,0,,Outro motivo, é que tenho mais\Nmedo de morrer do que antes.
 Dialogue: 0,0:22:16.04,0:22:19.84,Default,,0,0,0,,Bem, mesmo que não seja\Nimortalidade, apenas um pouco...
 Dialogue: 0,0:22:20.17,0:22:23.97,Default,,0,0,0,,mesmo que seja só um\Nbocadinho de tempo.
-Dialogue: 0,0:22:28.11,0:22:32.41,Default,,0,0,0,,Além disso, está escrito no texto\Nsagrado para viver com saúde.
+Dialogue: 0,0:22:28.11,0:22:32.41,Default,,0,0,0,,Além disso está escrito no texto\Nsagrado, para viver com saúde.
 Dialogue: 0,0:22:32.43,0:22:35.53,Default,,0,0,0,,A longevidade é o exemplo\Nmais claro disso Frieren.
 Dialogue: 0,0:22:35.56,0:22:37.96,Default,,0,0,0,,Frade desprezível.
-Dialogue: 0,0:22:39.37,0:22:43.37,Default,,0,0,0,,Além disso, se não te importares\Nenquanto não decifras entre pausas.
+Dialogue: 0,0:22:39.37,0:22:43.37,Default,,0,0,0,,Mais uma coisa. Se não te importares\Nenquanto não decifras entre pausas.
 Dialogue: 0,0:22:43.39,0:22:46.59,Default,,0,0,0,,Poderias ensinar\Nmagia à Fern?
 Dialogue: 0,0:22:46.77,0:22:51.27,Default,,0,0,0,,Sou um frade, por isso\Nnão sei bem como funciona.
 Dialogue: 0,0:22:51.76,0:22:54.16,Default,,0,0,0,,Bem, se\Nfor só isso.
 Dialogue: 0,0:23:01.83,0:23:03.43,Default,,0,0,0,,Ai estás.
 Dialogue: 0,0:23:03.96,0:23:06.56,Default,,0,0,0,,Foi complicado\Nencontrar-te.
 Dialogue: 0,0:23:06.67,0:23:09.07,Default,,0,0,0,,Costumas treinar\Nsempre na floresta?
-Dialogue: 0,0:23:09.11,0:23:13.61,Default,,0,0,0,,Até para si senhora Freiren,\Nfoi difícil de me encontrar?
+Dialogue: 0,0:23:09.11,0:23:13.61,Default,,0,0,0,,Até para si senhora Freiren\Nfoi difícil de me encontrar?
 Dialogue: 0,0:23:13.85,0:23:18.35,Default,,0,0,0,,O senhor Heiter costuma dizer\Nque a minha presença é fraca.
 Dialogue: 0,0:23:19.86,0:23:22.36,Default,,0,0,0,,Isso é algo de\Nbom não é?
 Dialogue: 0,0:23:23.70,0:23:25.40,Default,,0,0,0,,Suponho que sim.
@@ -319,7 +319,7 @@ Dialogue: 0,0:24:49.60,0:24:55.50,Default,,0,0,0,,comuns, mas especiais.
 Dialogue: 0,0:24:55.57,0:25:01.97,Default,,0,0,0,,Ora se não fossem estes\Nolhos, não conseguia ver.
 Dialogue: 0,0:25:01.99,0:25:06.69,Default,,0,0,0,,Porquê que transbordam?
 Dialogue: 0,0:25:06.74,0:25:12.64,Default,,0,0,0,,Portanto mesmo\Nque renascesse,
-Dialogue: 0,0:25:12.67,0:25:18.47,Default,,0,0,0,,voltaria a\Nescolher este lugar.
+Dialogue: 0,0:25:12.67,0:25:18.47,Default,,0,0,0,,ainda voltaria a\Nescolher este lugar.
 Dialogue: 0,0:25:18.56,0:25:24.46,Default,,0,0,0,,Por isso se voltasse\Na cruzar‑me contigo,
 Dialogue: 0,0:25:24.56,0:25:30.16,Default,,0,0,0,,não te largaria,\Nescolheria este momento.
 Dialogue: 0,0:25:30.18,0:25:35.88,Default,,0,0,0,,Mesmo sem promessas, mesmo\Nnos dias solitários e confusos,
